@@ -40,7 +40,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
 
  <a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/tassiaaccioly/tassiaaccioly?color=yellow" alt="Visitors badge" />
+    <img align="right" src="https://badges.pufler.dev/visits/ryokochang/ryokochang?color=yellow" alt="Visitors badge" />
  </a>
 
 [linkedin]: https://www.linkedin.com/in/ryokochang/
