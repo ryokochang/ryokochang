@@ -17,7 +17,7 @@
 ### GitHub Stats
 
 
-![Alex Chang's github stats](https://github-readme-stats.vercel.app/api?username=ryokochang&show_icons=true&theme=great-gatsby)
+![Alex Chang's github stats](https://github-readme-stats.vercel.app/api?username=ryokochang&show_icons=true&theme=vue-dark)
 
 
 ### Languages and Frameworks I know and Study
@@ -37,7 +37,7 @@
 ![Python](http://img.shields.io/badge/-Python-1e415e?style=flat&logo=python&logoColor=white)
 ![Lua](http://img.shields.io/badge/-Lua-000081?style=flat&logo=lua&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryokochang&theme=great-gatsby&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryokochang&theme=vue-dark&layout=compact)
 
  <a href="https://badges.pufler.dev">
     <img align="right" src="https://badges.pufler.dev/visits/ryokochang/ryokochang?color=yellow" alt="Visitors badge" />
