@@ -35,7 +35,6 @@
 ![PHP](http://img.shields.io/badge/-PHP-777bb3?style=flat&logo=PHP&logoColor=white)
 ![Laravel](http://img.shields.io/badge/-Laravel-ef3b2d?style=flat&logo=laravel&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-1e415e?style=flat&logo=laravel&logoColor=white)
-![Python](http://img.shields.io/badge/-Python-1e415e?style=flat&logo=laravel&logoColor=white)
 ![Lua](http://img.shields.io/badge/-Lua-000081?style=flat&logo=laravel&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
