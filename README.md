@@ -3,7 +3,7 @@
 
 [<img align="left" alt="ryokochang | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="ryokochang | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="alexscchang1 | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" mailto="alexscchang1@gmail.com" width="22px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="ryokochang | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto]
 
 <br>
