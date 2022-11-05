@@ -44,6 +44,6 @@
  </a>
 
 [linkedin]: https://www.linkedin.com/in/ryokochang/
-[twitter]: https://www.twitter.com/ryokochang/
+[twitter]: https://www.twitter.com/alexchang35/
 [gmail]: mailto:alexscchang1@gmail.com
 [devto]: https://dev.to/ryokochang
