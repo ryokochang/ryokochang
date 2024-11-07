@@ -12,7 +12,7 @@
 ![](https://www.codewars.com/users/ryokochang/badges/small)
 
 
-### **I'm a programmer since 15 years old!**
+### **I'm a programmer since 12 years old!**
 
 ### GitHub Stats
 
