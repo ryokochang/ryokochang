@@ -36,7 +36,6 @@
 - 🖥️ **Remote worker for 4+ years** — loving every bit of it!
 - 🕹️ Got hooked on coding at age 12 thanks to **video games**
 - 🧩 In my spare time I solve **Rubik's cubes** — because I love a good puzzle!
-- 💍 Happily married since July 2024
 - 🌐 **English**: Intermediate / Upper Intermediate (CEFR B1/B2)
 
 ---
